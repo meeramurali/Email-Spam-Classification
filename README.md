@@ -1,6 +1,6 @@
 # Email-Spam-Classification
 
-This project involved the implementation of Gaussian Naïve Bayes to classify the Spambase data from the UCI ML repository. 
+This project involved the implementation of Gaussian Naïve Bayes to classify the Spambase data from the UCI ML repository (https://archive.ics.uci.edu/ml/datasets/spambase). 
 
 The dataset contains 4601 examples which were split into training and test sets having around 2301 and 2300 instances respectively with roughly 40% spam and 60% non-spam data to reflect the statistics of the full dataset. 
 Since each feature is assumed to be independent, no standardization of features is required.
